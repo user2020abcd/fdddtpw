@@ -1,1 +1,1 @@
-ZmRkZHQucHc=
+git clone  -n --branch=v1.2.8 https://github.com/telegramdesktop/tdesktop.git
